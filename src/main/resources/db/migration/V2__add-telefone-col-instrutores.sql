@@ -1,0 +1,1 @@
+ALTER TABLE instrutores ADD COLUMN telefone VARCHAR(11) NOT NULL AFTER email;
